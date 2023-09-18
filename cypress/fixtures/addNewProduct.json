@@ -1,0 +1,15 @@
+{
+  "searchText": "Product",
+  "productName": "HP Laptop",
+  "shortDescription": "Latest HP Laptop with 1 TB HD and 8 GB RAM",
+  "SKU": "12345",
+  "GTIN": "125",
+  "manufacturerPartNo": "9876512345",
+  "product": "Simple",
+  "productTemplate": "Simple product",
+  "startDate": "8/29/2023 12:00 AM",
+  "endDate": "12/31/2023 12:00 AM",
+  "Price": "1000",
+  "productCategory":"Computers >> Desktops"
+}
+
